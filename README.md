@@ -44,6 +44,20 @@ src---
      ---views     //页面视图
      ---app.vue
      ---main.vue
+     
+ server服务器目录结构
+   ---server
+        ---mysql    //mysql数据库配置文件
+        ---javascript   //里面只有一个处理路径文件
+        ---public       //网络资源文件
+              ---upCommentsimg   //存放评论图片
+              ---upFile     //存放上传活动相关文件
+              ---upload    //上传头像
+         ---router
+            ---download   //上传处理模块
+            ---dynamic    //动态页面的处理模块
+            .....
+         ---app.js        入口文件
 ```
 ### 项目相关
 ## 该项目还有配套的后台管理系统 项目地址:  https://github.com/bfzg/vite-vue3.2-js-node-mysql-
