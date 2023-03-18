@@ -52,5 +52,6 @@ src---
 ```
 时空胶囊
     这个项目到此也算初步结束了 翻看早以前写的代码，自己都觉得看不下去，许多地方完全就是“绕大弯”，但谁不是一路磕磕绊绊？。
-    回想一路走来从最开始 学习网络，再到后来 网络安全 等，再到后来确定 前端，从 简单的html，css再到JavaScript，当时认为 哎真简单。后来接触 ajax ，less，sass，node，npm，vue2，element，vant，vue3，axios，express，uniapp，webgl，unicloud，mysql，mongodb各种npm包,真是越发感觉自己的不足，还有基础的薄弱，真实感觉人外有人，天外有天。学习之路应保持谦虚，切勿骄傲。。。 回想一路走来的艰辛也只有自己知道，留言至此 4年后的自己留念，，，，，文章到此，人生继续。
+    回想一路走来从最开始 学习网络，再到后来 网络安全 等，再到后来确定 前端，从 简单的html，css再到JavaScript，当时认为 哎真简单。
+    后来接触 ajax ，less，sass，node，npm，vue2，element，vant，vue3，axios，express，uniapp，webgl，unicloud，mysql，mongodb各种npm包,真是越发感觉自己的不足，还有基础的薄弱，真实感觉人外有人，天外有天。学习之路应保持谦虚，切勿骄傲。。。 回想一路走来的艰辛也只有自己知道，留言至此 4年后的自己留念，，，，，文章到此，人生继续。
 ```
