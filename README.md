@@ -1,7 +1,11 @@
-# 校园活动项目
+### 校园活动项目
 
-##项目环境
+## 项目环境
 node.js(16.14.0) npm(8.3.1) mysql(5.7.26) vue(3.2) @vue/cli(5.0.8)
+### 需要mysql sql文件
+百度网盘:
+链接：https://pan.baidu.com/s/1msdpJlV1s4W81NOptVBXvA?pwd=1234 
+提取码：1234
 
 ## 在文件夹中运行 注意：也需要在server目录下运行
 ```
