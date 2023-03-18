@@ -26,7 +26,7 @@ npm run build
 ```
 #目录结构
 
-##
+```
 src---
     ---common  //公共视图
     ---components  //私有组件
@@ -44,3 +44,4 @@ src---
      ---views     //页面视图
      ---app.vue
      ---main.vue
+```
