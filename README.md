@@ -24,7 +24,7 @@ npm run serve
 ```
 npm run build
 ```
-#目录结构
+### 目录结构
 
 ```
 src---
